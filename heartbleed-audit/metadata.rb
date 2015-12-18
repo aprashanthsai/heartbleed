@@ -1,0 +1,7 @@
+name 'heartbleed-audit'
+maintainer 'Prashanth Sai Athicarla'
+maintainer_email 'prashanth.sai.athicarla@hpe.com'
+license 'All Rights Reserved'
+description 'Audits node for heartbleed vulnerability'
+long_description 'Audits node for OpenSSL Heartbleed Vulnerability'
+version '0.1.0'
